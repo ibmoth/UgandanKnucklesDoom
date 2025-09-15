@@ -1,9 +1,10 @@
 ﻿{
-  "name": "Ugandan Knuckles Doom Spell",
+  "name": "UgandanKnucklesDoomSpell",
   "version_number": "1.0.0",
   "website_url": "https://github.com/IBMOTH/UgandanKnucklesDoom",
   "description": "Replaces the doom spell's black hole with Ugandan Knuckles",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
   ]
+
 }
